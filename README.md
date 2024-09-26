@@ -26,4 +26,4 @@ This Power BI dashboard provides an in-depth analysis of flight delays, cancella
 ### Conclusion
 This dashboard effectively visualizes flight performance data, highlighting significant insights into delays, cancellations, and flight patterns across major airlines and airports. The insights generated can assist in improving airline performance, optimizing route management, and identifying areas prone to weather-related disruptions.
 
-#This Power BI dashboard is not available on GitHub because of the size is too big to upload here.
+#This Power BI dashboard is not available on GitHub because of the size is too big to upload here.CheckOut the pdf.
